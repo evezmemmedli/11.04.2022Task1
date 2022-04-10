@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 100%;
+    position: relative;
+}
+
+.box .a-title {
+    display: block;
+    width: 99%;
+    margin-top: 10px;
+    height: 50px;
+    background-color: rgba(204, 204, 204, 0.282);
+    font-size: 20px;
+    position: sticky;
+    top: 0;
+    margin-left: 15px;
+}
+
+body {
+    height: 250vh;
+}
+p{
+    font-size: 25px;
+    margin-left: 50px;
+}
